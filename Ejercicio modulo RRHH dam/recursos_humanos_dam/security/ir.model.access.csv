@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_recursos_humanos_dam_empleado,recursos_humanos_dam.empleado,model_recursos_humanos_dam_empleado,base.group_user,1,1,1,1
+access_recursos_humanos_dam_empresa,recursos_humanos_dam.empresa,model_recursos_humanos_dam_empresa,base.group_user,1,1,1,1
+access_recursos_humanos_dam_calculadora,recursos_humanos_dam.calculadora,model_recursos_humanos_dam_calculadora,base.group_user,1,1,1,1
